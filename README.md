@@ -22,3 +22,10 @@ Some descriptive corpus statistics are summarized below:
 | Unique Words          |      1,064      |        5,809        |     6,443     |
 | Average Words per Msg |       6.98      |         8.40        |      8.16     |
 | SD Words per Msg      |       1.48      |         9.32        |      8.51     |
+
+## Topic Discrimination and Classifier Performance
+A Naive Bayes classifier demonstrated a sufficient discriminative power on this preprocessed dataset, achieving an Area Under the Curve (AUC) of 0.99, underlining the corpus's suitability for NLP classifier development and topic probing.
+
+![grafik](https://github.com/DataScienceFH/NLP_Classifier_Corpus_German/assets/129044997/36d9ac39-3dd4-4214-aeda-4ec536e0d21e)
+
+![grafik](https://github.com/DataScienceFH/NLP_Classifier_Corpus_German/assets/129044997/b1474e8a-8c6c-48b0-b225-5f66b51ea8f1)
